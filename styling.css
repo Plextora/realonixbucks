@@ -15,7 +15,7 @@ body {
 
 @media (prefers-reduced-motion: no-preference) {
     .yes {
-        animation: App-logo-spin infinite 0.5s linear;
+        animation: App-logo-spin infinite 0.35s linear;
     }
 }
 
