@@ -6,3 +6,7 @@ body {
     color: peachpuff;
     text-align: center;
 }
+
+p {
+    font-size: 50px;
+}
